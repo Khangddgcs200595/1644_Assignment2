@@ -7,7 +7,7 @@ const app = express();
 
 const MongoClient = require('mongodb').MongoClient
 
-const connectionString = 'mongodb+srv://vhho:Abcd1234@cluster0.dztpn55.mongodb.net/?retryWrites=true&w=majority'
+const connectionString = 'mongodb+srv://root:Abcd1234@cluster0.daedihh.mongodb.net/?retryWrites=true&w=majority'
 
 /*
 MongoClient.connect(connectionString, (err, MongoClient) => {
